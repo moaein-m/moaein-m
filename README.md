@@ -7,7 +7,7 @@
 
 # Hey, I'm Aein 👋
 
-### Student | Aspiring Developer | Tech Enthusiast
+### Business Development Manager @ Trust Tech | B.Sc. Computer Science Student @ Leibniz University Hannover | Network Security · Cybersecurity · AI 
 
 *Learning, building, and exploring the world of software development.*
 
