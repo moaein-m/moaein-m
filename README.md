@@ -1,4 +1,3 @@
- 
 <!--
   GitHub Profile README
   Username: moaein-m
@@ -6,7 +5,7 @@
 
 <div align="center">
 
-# Hey, I'm Moaein 👋
+# Hey, I'm Aein 👋
 
 ### Student | Aspiring Developer | Tech Enthusiast
 
@@ -28,9 +27,9 @@
 
 </div>
 
-## 👨‍💻 About Me
+## 👨‍💻bout Me
 
-Hello! I'm **Moaein**, a student and aspiring developer passionate about technology and software development.
+Hello! I'm **Aein**, a student and aspiring developer passionate about technology and software development.
 
 - 🎓 Currently learning and improving my programming skills.
 - 💻 Interested in software development and modern technologies.
@@ -38,13 +37,13 @@ Hello! I'm **Moaein**, a student and aspiring developer passionate about technol
 - 📚 Always exploring new tools, frameworks, and programming concepts.
 - 🎯 My goal is to become a skilled software developer.
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 **Languages & Technologies**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,mysql" />
 
 <br/>
 
@@ -54,15 +53,15 @@ Hello! I'm **Moaein**, a student and aspiring developer passionate about technol
 
 </div>
 
-*Technologies displayed here are a starting point. Adjust them to match your actual skills.*
+
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=moaein-m&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaein-m&layout=compact&theme=tokyonight&hide_border=true" />
+
+
 
 <br/>
 
@@ -97,6 +96,9 @@ When you have projects, replace this section with:
 </a>
 
 <!-- Add your social links here -->
+<a href="https://www.instagram.com/moaein_m/">
+ <img src="https://skillicons.dev/icons?i=instagram" width="45" />
+</a>
 
 </div>
 
